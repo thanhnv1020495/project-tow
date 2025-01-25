@@ -1,0 +1,35 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+	font-family: "Poppins","Sen", serif;
+}
+
+/* common */
+.btn {
+	border-radius: 999px;
+    background: #171100;
+	padding: 0 41px;
+	line-height: 50px;
+	color: #fff;color: #FFF;
+	text-align: center;
+	font-size: 1.6rem;
+	font-weight: 600;
+}
+
+.btn:hover {
+	opacity: 0.9;
+}
+
+a {
+	text-decoration: none;
+	cursor: pointer;
+}
+
+
